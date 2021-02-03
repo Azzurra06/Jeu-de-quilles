@@ -1,6 +1,3 @@
-#Azzurra LHOEST - Wiam ELHASNAOUI - PeiP1 G2
-#test
-
 from random import *
 from turtle import *
 import time
